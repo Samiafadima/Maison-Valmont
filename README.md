@@ -28,7 +28,7 @@ J'ai réalisé différentes étapes, de la préparation des données jusqu'à la
 - **Excel** : préparation et organisation des données.
 - **Power BI** : analyse des performances et création de visualisations interactives.
 
-## 📊 Quelques chiffres clés
+## Quelques chiffres clés
 
 Voici les principaux indicateurs qui ressortent de mon analyse :
 
