@@ -27,4 +27,4 @@ Analyse des ventes de Maison Valmont (enseigne de luxe fictive) pour comprendre 
 - `Data/` : fichier Excel source
 - `PowerBI/` : tableau de bord et export PDF
 
-*Projet de portfolio réalisé dans le cadre de ma recherche de stage de Master 1 en Data Analytics.*
+*Projet réalisé dans le cadre du développement de compétences en Data Analysis et Business Intelligence.*
