@@ -1,6 +1,6 @@
 # Maison Valmont : analyse commerciale et rentabilité
 
-**Projet de Data Analytics | SQL · Excel · Power BI**
+**Projet de Data Analytics & Business Intelligence| SQL · Excel · Power BI**
 
 ## À propos
 
@@ -24,7 +24,7 @@ Analyse des ventes de Maison Valmont (enseigne de luxe fictive) pour comprendre 
 ## Organisation
 
 - `SQL/` : scripts (création, insertion, contrôles qualité, KPI)
-- `Data/` : fichier Excel source
+- `Data/` : fichier Excel nettoyé
 - `PowerBI/` : tableau de bord et export PDF
 
 *Projet réalisé dans le cadre du développement de compétences en Data Analysis et Business Intelligence.*
