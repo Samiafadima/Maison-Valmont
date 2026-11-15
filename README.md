@@ -28,3 +28,4 @@ Analyse des ventes de Maison Valmont (enseigne de luxe fictive) pour comprendre 
 - `PowerBI/` : tableau de bord et export PDF
 
 *Projet réalisé dans le cadre du développement de compétences en Data Analysis et Business Intelligence.*
+Données fictives
